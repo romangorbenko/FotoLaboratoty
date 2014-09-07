@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sabd="http://schemas.android.com/apk/res-auto" >
+     <item
+        android:id="@+id/action_item_1"
+        android:title="@string/action_item_1"
+        android:icon="@drawable/new_picture"
+        sabd:showAsAction="always" />
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:icon="@drawable/settings2"
+        sabd:showAsAction="always" />
+</menu> 
